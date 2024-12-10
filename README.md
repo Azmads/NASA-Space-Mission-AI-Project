@@ -1,5 +1,6 @@
 # NASA-Space-Mission-AI-Project
 Names for this project: *Elizabeth Carrillo, Adam Martinez, Khoi Xa, Juan Zacarias*
+
 **Project track chosen - Conceptual Design Track**
 # Brief Project Description
 This project focuses on the conceptual design of an AI model to predict climate change by analyzing temperature trends and other contributing factors at a global or regional scale. The objective is to identify key indicators influencing long-term climate changes, providing valuable insights without proposing mitigation strategies. We have selected the Conceptual Design Track, prioritizing the development of a detailed, research-driven solution plan.
